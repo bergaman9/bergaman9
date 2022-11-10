@@ -5,7 +5,7 @@
 * 📚 Studying Electrical-Electronics Engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)
 &nbsp;
 ### What I feel comfortable using:
-######__Frontend__
+__Frontend__<br />
 ![markdown](https://user-images.githubusercontent.com/75286482/201105327-55b5b453-8d60-4c86-aadb-8a7c00b65a99.svg)
 
 &nbsp;
