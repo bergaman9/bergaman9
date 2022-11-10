@@ -35,7 +35,7 @@ _Frontend_</br>
 </br>_Design_</br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) </br>
-</br>
+
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=bergaman9&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)</br>
 </br>
