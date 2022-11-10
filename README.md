@@ -8,8 +8,7 @@
 
 ### My Software Projects
 * [Contro](https://top.gg/tr/bot/783064615012663326)
-* [Ligroup](http://ligroup.herokuapp.com/)
-</br>
+* [Ligroup](http://ligroup.herokuapp.com/) </br>
 
 ### Tech Stack
 _Frontend_</br>
