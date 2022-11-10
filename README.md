@@ -1,12 +1,13 @@
 #### Hi, Ömer here 👋
-🍰 21 y.o.<br>📍 Turkey, Istanbul & Yalova<br>🧬 Currently building new projects<br>📚 Studying Electrical-Electronics Engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)  
+🍰 21 y.o.<br>📍 Turkey, Istanbul & Yalova<br>🧬 Currently building new projects<br>📚 Studying Electrical-Electronics Engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa) </br>
+</br>
 #### Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/N5xKxkd26J) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerguler) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18588775) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bergaman9) 
-&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/N5xKxkd26J) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerguler) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18588775) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bergaman9) </br>
+</br>
 #### My Software Projects
 * [Contro](https://top.gg/tr/bot/783064615012663326)
-* [Ligroup](http://ligroup.herokuapp.com/)
-&nbsp;
+* [Ligroup](http://ligroup.herokuapp.com/)</br>
+</br>
 #### Tech Stack
 _Frontend_</br>
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
@@ -32,6 +33,7 @@ _Frontend_</br>
 </br>_Design_</br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) </br>
+</br>
 #### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=bergaman9&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)</br>
 </br>
