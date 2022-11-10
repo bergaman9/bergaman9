@@ -4,7 +4,11 @@
 🧬 Building new projects
 📚 Studying Electrical-Electronics Engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)
 
-<pre></pre>
+<pre>
+### My software projects:
+* [Contro](https://top.gg/tr/bot/783064615012663326)
+* [ligroup](http://ligroup.herokuapp.com/)
+</pre>
 
 ### My software projects:
 * [Contro](https://top.gg/tr/bot/783064615012663326)
