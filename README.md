@@ -28,11 +28,11 @@ _Tools_<br />
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=bergaman9&style=flat-square)
 
-# 💫 About Me:
+# Hi there 👋
 🍰 21 y.o.<br>📍 Turkey, Istanbul<br>🧬 Building new projects<br>📚 Studying Electrical-Electronics Engineering at Istinye  
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/N5xKxkd26J) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bergaman9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerguler) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bergaman9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18588775) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bergaman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bergaman9) 
 
 # 💻 Tech Stack:
