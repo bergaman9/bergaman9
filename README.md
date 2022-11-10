@@ -2,8 +2,7 @@
 * 🍰 21 y.o.
 * 📍 Turkey, Istanbul & Yalova
 * 🧬 Currently building new projects
-* 📚 Studying Electrical-Electronics Engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)
-</br>
+* 📚 Studying Electrical-Electronics Engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)</br>
 
 #### Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/N5xKxkd26J) 
