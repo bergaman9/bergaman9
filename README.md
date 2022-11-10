@@ -15,9 +15,9 @@
 &nbsp;
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=bergaman9&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=bergaman9&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)</br>
 &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bergaman9&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bergaman9&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 &nbsp;
 [![](https://visitcount.itsvg.in/api?id=bergaman9&icon=0&color=6)](https://visitcount.itsvg.in)
 
