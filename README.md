@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 My software projects:
 * Contro Discord Bot
-* Ligroup
+* [ligroup](https://www.google.com)
+
