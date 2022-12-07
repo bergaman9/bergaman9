@@ -1,7 +1,7 @@
 ### Hi, Ömer here 👋
 * 🍰 21 y.o.
 * 📍 Turkey, Istanbul & Yalova
-* 🧬 Currently building new projects while learning new things
+* 🧠 Currently building new projects while learning new things
 * 📚 Studying electrical-electronics engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)</br>
 
 #### Socials
