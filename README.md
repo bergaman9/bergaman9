@@ -3,7 +3,7 @@
 * 📍 Turkey, Istanbul & Yalova
 * 🧬 Developing my main projects like Contro, ligroup, bergaman... 
 * 📚 Studying electrical-electronics engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)
-* 🧪 Building side projects while learning new things</br>
+* 🧪 Building side projects while learning new technologies</br>
 
 #### Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N5xKxkd26J) 
