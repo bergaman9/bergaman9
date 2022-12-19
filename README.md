@@ -1,8 +1,9 @@
 ### Hi, Ömer here 👋
 * 🍰 21 y.o.
 * 📍 Turkey, Istanbul & Yalova
-* 🧠 Currently building new projects while learning new things
-* 📚 Studying electrical-electronics engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)</br>
+* 🧬 Developing my main projects like Contro, ligroup, bergaman... 
+* 📚 Studying electrical-electronics engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)
+* 🧪 Building side projects while learning new things</br>
 
 #### Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N5xKxkd26J) 
