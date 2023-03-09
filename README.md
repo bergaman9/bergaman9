@@ -1,7 +1,7 @@
 ### Hi, Ömer here 👋
 * 🍰 21 y.o.
 * 📍 Turkey, Istanbul & Yalova
-* 🧬 Developing my main projects like Contro, ligroup, bergaman... 
+* 🧬 Developing my main projects like Contro, Ligroup, Bergaman... 
 * 📚 Studying electrical-electronics engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)
 * 🧪 Building side projects while learning new technologies</br>
 
@@ -15,7 +15,8 @@
 
 #### My Software Projects
 * [Contro](https://top.gg/tr/bot/783064615012663326)
-* [Ligroup](http://ligroup.herokuapp.com/) </br>
+* [Ligroup](http://ligroup.herokuapp.com/)
+* [Bergaman](http://bergaman.herokuapp.com/) </br>
 
 ### Tech Stack
 _Frontend_</br>
