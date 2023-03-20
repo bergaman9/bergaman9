@@ -37,6 +37,7 @@ _Frontend_</br>
 &nbsp;
 </br>_Deployment_</br>
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bergaman9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)</br>
 </br>_Design_</br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
