@@ -1,5 +1,5 @@
 ### Hi, Ömer here 👋
-* 🍰 21 y.o.
+* 🍰 22 y.o.
 * 📍 Turkey, Istanbul & Yalova
 * 🧬 Developing my main projects like Contro, Ligroup, Bergaman... 
 * 📚 Studying electrical-electronics engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)
