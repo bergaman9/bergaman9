@@ -13,7 +13,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bergaman9)
 </br>
 
-#### My Software Projects
+#### Featured Projects
 * [Contro](https://top.gg/tr/bot/783064615012663326)
 * [Ligroup](http://ligroup.herokuapp.com/)
 * [Bergaman](http://bergaman.herokuapp.com/) </br>
