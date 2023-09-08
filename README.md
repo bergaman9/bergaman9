@@ -1,9 +1,9 @@
-### Hi, Ömer here 👋
-* 🍰 22 y.o.
-* 📍 Turkey, Istanbul & Yalova
-* 🧬 Developing my main projects like Contro, Ligroup, Bergaman... 
-* 📚 Studying electrical-electronics engineering at [Istinye](https://www.istinye.edu.tr/tr/anasayfa)
-* 🧪 Building side projects while learning new technologies</br>
+### Hello, I'm Ömer 👋
+* 🎂 Age: 22
+* 🗺️ Location: Istanbul & Yalova, Turkey
+* 🛠️ Currently Working On: Core projects including Contro, Ligroup, Bergaman, etc.
+* 🎓 Education: Pursuing a degree in Electrical-Electronics Engineering from [Istinye University](https://www.istinye.edu.tr/tr/anasayfa)
+* 🌱 Professional Interests: Continuously learning and applying new technologies through various side projects.
 
 #### Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N5xKxkd26J) 
