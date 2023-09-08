@@ -1,11 +1,11 @@
-### Hello, I'm Ömer 👋
+## Hello, I'm Ömer 👋
 * 🎂 Age: 22
 * 🗺️ Location: Istanbul & Yalova, Turkey
 * 🛠️ Currently Working On: Core projects including Contro, Ligroup, Bergaman, etc.
 * 🎓 Education: Pursuing a degree in Electrical-Electronics Engineering from [Istinye University](https://www.istinye.edu.tr/tr/anasayfa)
 * 🌱 Professional Interests: Continuously learning and applying new technologies through various side projects.
 
-#### Socials
+### Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N5xKxkd26J) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerguler) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18588775) 
@@ -13,7 +13,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bergaman9)
 </br>
 
-#### Featured Projects
+### Featured Projects
 * [Contro](https://top.gg/tr/bot/783064615012663326) - A Discord bot developed using discord.py and various libraries.
 * [Ligroup](http://ligroup.herokuapp.com/) - A social media directory application built with EJS, Node.js, and Express.
 * [Bergaman](http://bergaman.herokuapp.com/) - A personal website featuring a blog and services, built on the MERN stack.</br> 
