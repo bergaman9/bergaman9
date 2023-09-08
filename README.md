@@ -14,9 +14,9 @@
 </br>
 
 #### Featured Projects
-* [Contro](https://top.gg/tr/bot/783064615012663326)
-* [Ligroup](http://ligroup.herokuapp.com/)
-* [Bergaman](http://bergaman.herokuapp.com/) </br>
+* [Contro](https://top.gg/tr/bot/783064615012663326) - A Discord bot developed using discord.py and various libraries.
+* [Ligroup](http://ligroup.herokuapp.com/) - A social media directory application built with EJS, Node.js, and Express.
+* [Bergaman](http://bergaman.herokuapp.com/) - A personal website featuring a blog and services, built on the MERN stack.</br> 
 
 ### Tech Stack
 _Programming Lanugages_</br>
