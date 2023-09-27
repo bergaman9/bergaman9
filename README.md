@@ -44,7 +44,7 @@ _Programming Lanugages_</br>
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)</br>
 </br>_Deployment_</br>
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=Heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)</br>
