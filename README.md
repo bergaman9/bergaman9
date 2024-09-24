@@ -1,6 +1,4 @@
 ## Hello, I'm Ömer 👋
-* 🎂 Age: 23
-* 🗺️ Location: Istanbul & Yalova, Turkey
 * 🛠️ Currently Working On: Core projects including Contro, Ligroup, Bergaman, etc.
 * 🌱 Professional Interests: Continuously learning and applying new technologies through various side projects.
 
