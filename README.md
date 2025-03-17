@@ -4,9 +4,8 @@
 
 ### Featured Projects
 * [Bergaman](http://bergaman.dev/) - A personal website built with Next.js, designed to reflect my personality and showcase my work and projects.
-* [Contro](https://top.gg/tr/bot/783064615012663326) - A continuously evolving Discord bot developed using discord.py and various libraries. Fun fact: I power it with electricity from my Raspberry Pi 5—keeping it "alive and powered"! ⚡️
-* [Ligroup](http://ligroup.herokuapp.com/) - A social media directory application built with EJS, Node.js, and Express.
-
+* [Contro](https://www.contro.space/) - A continuously evolving Discord bot developed using discord.py and various libraries. Fun fact: I power it with electricity from my Raspberry Pi 5—keeping it "alive"! ⚡️
+* [Ligroup](https://ligroup-eta.vercel.app/) - A social media directory application built with EJS, Node.js, and Express.
 
 ### Tech Stack
 _Programming Lanugages_</br>
