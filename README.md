@@ -2,7 +2,7 @@
 
 # Hi, I'm Ömer 👋
 
-### Electrical & Electronics Engineering Graduate
+### Electrical & Electronics Engineer
 
 ### Junior Software Developer • AI-Assisted Builder • Automation & Discord Bot Developer
 
@@ -17,22 +17,22 @@
 
 ## About Me
 
-I'm an **Electrical & Electronics Engineering** graduate from Turkey with a strong interest in **software development, automation, artificial intelligence, Discord bots, IoT, and engineering-focused digital tools**.
+I'm an **Electrical & Electronics Engineer** from Turkey, focused on building practical software products, automation systems, Discord bot ecosystems, AI-assisted workflows, and engineering-oriented digital tools.
 
-My technical journey started with computers and video games, then evolved into programming, full-stack development, AI-assisted workflows, embedded systems, and practical engineering projects.
+My background combines **engineering discipline**, **software development**, **technical documentation**, and **hands-on problem solving**. I like turning ideas into working products, improving existing systems, and learning technologies by building real projects.
 
-I enjoy building useful products, improving existing systems, experimenting with new technologies, and turning ideas into working software.
+I mainly work with **Python, JavaScript/TypeScript, React, Next.js, Node.js, React Native, Expo, MongoDB Atlas, Docker, and AI-assisted development tools**. I also experiment with **WinUI 3**, **Swift/iOS development**, **IoT**, embedded systems, and desktop/mobile utility applications.
 
-Currently, I focus on:
+---
 
-* Full-stack web and mobile development
-* Discord bots, dashboards, and automation systems
-* AI-assisted software development workflows
-* Python, JavaScript, TypeScript, React, Next.js, Node.js, React Native, and Expo
-* MongoDB Atlas, API integrations, authentication, and deployment workflows
-* WinUI 3 desktop application experiments
-* Swift / Apple Developer ecosystem and iOS-related experiments
-* IoT, embedded systems, cybersecurity fundamentals, and practical engineering tools
+## Current Focus
+
+* Building full-stack web and mobile applications
+* Developing Discord bots, dashboards, and automation systems
+* Improving AI-assisted software development workflows
+* Working with MongoDB Atlas, APIs, authentication, and deployment pipelines
+* Experimenting with WinUI 3 desktop apps and Swift/iOS projects
+* Exploring IoT, embedded systems, cybersecurity fundamentals, and engineering tools
 
 ---
 
@@ -40,14 +40,15 @@ Currently, I focus on:
 
 ### [Booklogg](https://booklogg.com/)
 
-A full-stack book logging and tracking platform built from idea to deployment.
+A full-stack book logging and tracking platform developed with a product-oriented mindset.
 
-**Focus areas:** full-stack development, mobile/web product logic, database workflows, deployment, AI-assisted development.
+**Focus:** full-stack development, product logic, database workflows, deployment, AI-assisted development.
 
-* Built as a real product rather than a simple practice project
-* Developed with a product-oriented mindset: planning, UI, backend logic, database structure, and deployment
-* Uses modern web/mobile development concepts including React Native, Expo, Node.js, MongoDB Atlas, Docker, and VPS deployment experience
-* Improved through AI-assisted workflows for planning, debugging, refactoring, documentation, and iteration
+* Built from idea to deployment as a real product
+* Includes user-oriented book tracking and application logic
+* Developed with modern web/mobile technologies
+* Uses AI-assisted workflows for planning, debugging, refactoring, documentation, and iteration
+* Strengthened my experience with deployment, database design, and product ownership
 
 ---
 
@@ -55,25 +56,25 @@ A full-stack book logging and tracking platform built from idea to deployment.
 
 A continuously evolving Discord bot and dashboard ecosystem.
 
-**Focus areas:** Discord automation, dashboard development, database migration, API integrations, deployment.
+**Focus:** Discord automation, dashboard development, API integrations, database migration, deployment.
 
 * Started as a Discord bot built with `discord.py`
 * Expanded into a broader automation and dashboard project
 * Improved command structure, dashboard logic, and deployment workflow
 * Migrated database architecture from PostgreSQL to MongoDB Atlas
-* Developed with Discord OAuth2, API integrations, server/community management features, and modern web technologies
+* Built around Discord OAuth2, server/community tools, API integrations, and automation features
 
 ---
 
 ### [Bergaman](https://www.bergaman.dev/)
 
-My personal website and portfolio.
+My personal website, portfolio, and digital identity.
 
-**Focus areas:** personal branding, portfolio design, Next.js, project showcase, blogging.
+**Focus:** personal branding, portfolio design, Next.js, project showcase, blogging.
 
 * Built with Next.js
-* Designed to reflect my personality, technical interests, and project background
-* Serves as a central hub for my projects, blog posts, interests, and engineering/software work
+* Designed to reflect my personality, interests, projects, and technical direction
+* Serves as a central hub for my software, engineering, blog, and experimental work
 
 ---
 
@@ -81,26 +82,26 @@ My personal website and portfolio.
 
 A social media directory application and one of my earlier full-stack web projects.
 
-**Focus areas:** backend routing, templating, Express.js, application structure.
+**Focus:** Express.js, EJS, backend routing, templating, web application structure.
 
 * Built with EJS, Node.js, and Express
 * Helped me move from bot development into full-stack web development
-* Strengthened my understanding of routing, templating, server-side logic, and web app structure
+* Improved my understanding of routing, server-side rendering, templating, and backend structure
 
 ---
 
-### Private & Experimental Projects
+## Private & Experimental Work
 
 I also work on private and experimental projects involving:
 
 * WinUI 3 desktop applications
-* Swift and iOS-related development experiments
-* AI-assisted tools and automation workflows
-* Utility applications
+* Swift and iOS-related development
+* AI-assisted tools and productivity workflows
+* Automation utilities
 * Engineering-focused software prototypes
 * IoT and embedded system experiments
 
-Some of these projects are private because they are still under active development, used for learning, or being prepared for future release.
+Some projects are private because they are still under active development, used for experimentation, or planned for future release.
 
 ---
 
@@ -168,7 +169,7 @@ Some of these projects are private because they are still under active developme
 
 ---
 
-## What I'm Interested In
+## Interests
 
 * Artificial Intelligence
 * Full-stack development
