@@ -1,64 +1,124 @@
-# Hello, I'm Ömer 👋
+<div align="center">
 
-I'm an Electrical & Electronics Engineering graduate with a strong interest in software development, automation, AI-assisted engineering, and practical technology projects. My journey started with video games and computers, then evolved into programming, web/mobile development, Discord bots, IoT systems, and productivity-focused software tools.
+# Hi, I'm Ömer 👋
 
-I enjoy building projects that connect software with real-world use cases. My current focus is on full-stack development, Discord bot ecosystems, AI-assisted coding workflows, automation tools, desktop applications, and mobile development experiments.
+### Electrical & Electronics Engineering Graduate
+
+### Junior Software Developer • AI-Assisted Builder • Automation & Discord Bot Developer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-bergaman.dev-00D9FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://www.bergaman.dev/)
+[![Booklogg](https://img.shields.io/badge/Booklogg-booklogg.com-7C3AED?style=for-the-badge\&logo=bookstack\&logoColor=white)](https://booklogg.com/)
+[![Contro](https://img.shields.io/badge/Contro-contro.space-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://www.contro.space/)
+[![GitHub](https://img.shields.io/badge/GitHub-bergaman9-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/bergaman9)
+
+</div>
 
 ---
 
-## 🚀 Currently Focused On
+## About Me
+
+I'm an **Electrical & Electronics Engineering** graduate from Turkey with a strong interest in **software development, automation, artificial intelligence, Discord bots, IoT, and engineering-focused digital tools**.
+
+My technical journey started with computers and video games, then evolved into programming, full-stack development, AI-assisted workflows, embedded systems, and practical engineering projects.
+
+I enjoy building useful products, improving existing systems, experimenting with new technologies, and turning ideas into working software.
+
+Currently, I focus on:
 
 * Full-stack web and mobile development
 * Discord bots, dashboards, and automation systems
-* AI-assisted software development with tools such as Claude, Codex, ChatGPT, and modern AI IDE workflows
-* Python, JavaScript/TypeScript, React, Next.js, Node.js, React Native, and Expo
-* MongoDB Atlas, API integrations, authentication flows, and deployment workflows
+* AI-assisted software development workflows
+* Python, JavaScript, TypeScript, React, Next.js, Node.js, React Native, and Expo
+* MongoDB Atlas, API integrations, authentication, and deployment workflows
 * WinUI 3 desktop application experiments
 * Swift / Apple Developer ecosystem and iOS-related experiments
 * IoT, embedded systems, cybersecurity fundamentals, and practical engineering tools
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
-### [Bergaman](https://www.bergaman.dev/)
+### [Booklogg](https://booklogg.com/)
 
-My personal website and portfolio, built to reflect my personality, technical interests, and project background. It serves as a central place for my work, blog posts, interests, and software/engineering projects.
+A full-stack book logging and tracking platform built from idea to deployment.
 
-### [BookLogg](https://booklogg.com/)
+**Focus areas:** full-stack development, mobile/web product logic, database workflows, deployment, AI-assisted development.
 
-A full-stack book logging and tracking platform. I developed the project from idea to deployment using modern web/mobile technologies, database workflows, Dockerized deployment, and AI-assisted development practices.
-
-### [Contro](https://www.contro.space/)
-
-A continuously evolving Discord bot and dashboard project. It started as a Discord bot built with `discord.py` and expanded into a broader automation/dashboard ecosystem. I have been improving its command structure, dashboard logic, database architecture, and deployment workflow, including migration work from PostgreSQL to MongoDB Atlas.
-
-### [Ligroup](https://ligroup-eta.vercel.app/)
-
-A social media directory application built with EJS, Node.js, and Express. It was one of my earlier full-stack web development projects and helped me understand backend routing, templating, and web application structure.
-
-### Private / Experimental Projects
-
-I also work on private and experimental projects involving WinUI 3, Swift/iOS development, AI-assisted tools, automation workflows, and utility applications. Some of these projects are private because they are still under active development or used for learning, prototyping, and experimentation.
+* Built as a real product rather than a simple practice project
+* Developed with a product-oriented mindset: planning, UI, backend logic, database structure, and deployment
+* Uses modern web/mobile development concepts including React Native, Expo, Node.js, MongoDB Atlas, Docker, and VPS deployment experience
+* Improved through AI-assisted workflows for planning, debugging, refactoring, documentation, and iteration
 
 ---
 
-## 🛠️ Tech Stack
+### [Contro](https://www.contro.space/)
 
-### Programming Languages
+A continuously evolving Discord bot and dashboard ecosystem.
+
+**Focus areas:** Discord automation, dashboard development, database migration, API integrations, deployment.
+
+* Started as a Discord bot built with `discord.py`
+* Expanded into a broader automation and dashboard project
+* Improved command structure, dashboard logic, and deployment workflow
+* Migrated database architecture from PostgreSQL to MongoDB Atlas
+* Developed with Discord OAuth2, API integrations, server/community management features, and modern web technologies
+
+---
+
+### [Bergaman](https://www.bergaman.dev/)
+
+My personal website and portfolio.
+
+**Focus areas:** personal branding, portfolio design, Next.js, project showcase, blogging.
+
+* Built with Next.js
+* Designed to reflect my personality, technical interests, and project background
+* Serves as a central hub for my projects, blog posts, interests, and engineering/software work
+
+---
+
+### [Ligroup](https://ligroup-eta.vercel.app/)
+
+A social media directory application and one of my earlier full-stack web projects.
+
+**Focus areas:** backend routing, templating, Express.js, application structure.
+
+* Built with EJS, Node.js, and Express
+* Helped me move from bot development into full-stack web development
+* Strengthened my understanding of routing, templating, server-side logic, and web app structure
+
+---
+
+### Private & Experimental Projects
+
+I also work on private and experimental projects involving:
+
+* WinUI 3 desktop applications
+* Swift and iOS-related development experiments
+* AI-assisted tools and automation workflows
+* Utility applications
+* Engineering-focused software prototypes
+* IoT and embedded system experiments
+
+Some of these projects are private because they are still under active development, used for learning, or being prepared for future release.
+
+---
+
+## Tech Stack
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat\&logo=csharp\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=csharp\&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat\&logo=swift\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat\&logo=markdown\&logoColor=white)
 
-### Frameworks, Platforms & Libraries
+### Web, Mobile & Desktop
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
@@ -66,21 +126,20 @@ I also work on private and experimental projects involving WinUI 3, Swift/iOS de
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat\&logo=expo\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat\&logo=express\&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat\&logo=discord\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat\&logo=bootstrap\&logoColor=white)
 ![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=flat\&logo=windows\&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat\&logo=swift\&logoColor=white)
 
-### Databases & Backend
+### Backend, Databases & APIs
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat\&logo=mongodb\&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4ea94b?style=flat\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat\&logo=sqlite\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+![Discord API](https://img.shields.io/badge/Discord_API-5865F2?style=flat\&logo=discord\&logoColor=white)
 
-### Deployment, Tools & Productivity
+### Tools, Deployment & Productivity
 
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat\&logo=github\&logoColor=white)
@@ -95,46 +154,57 @@ I also work on private and experimental projects involving WinUI 3, Swift/iOS de
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat\&logo=arduino\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat\&logo=raspberrypi\&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-0A66C2?style=flat\&logo=internetofthings\&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-1E90FF?style=flat\&logo=electron\&logoColor=white)
-![PC Hardware](https://img.shields.io/badge/PC_Hardware-333333?style=flat\&logo=windows\&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0A66C2?style=flat)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1E90FF?style=flat)
+![Electronics](https://img.shields.io/badge/Electronics-333333?style=flat)
+![PC Hardware](https://img.shields.io/badge/PC_Hardware-0F172A?style=flat)
 
 ### AI-Assisted Development
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat\&logo=openai\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat\&logo=anthropic\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat\&logo=githubcopilot\&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat\&logo=sparkles\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat)
 
 ---
 
-## 📌 Interests
+## What I'm Interested In
 
 * Artificial Intelligence
-* Full-Stack Development
-* Discord Bot Development
-* Automation Tools
-* Cybersecurity Fundamentals
-* Embedded Systems & IoT
-* Desktop and Mobile Application Development
-* PC Hardware and Technical Troubleshooting
-* Electrical & Electronics Engineering
+* Full-stack development
+* Discord bot development
+* Automation tools
+* Cybersecurity fundamentals
+* Embedded systems and IoT
+* Desktop and mobile application development
+* PC hardware and technical troubleshooting
+* Electrical and electronics engineering
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Ömer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bergaman9\&theme=synthwave\&hide_border=false\&include_all_commits=false\&count_private=false)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bergaman9\&theme=synthwave\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![Ömer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bergaman9\&theme=synthwave\&hide_border=false\&include_all_commits=true\&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bergaman9\&theme=synthwave\&hide_border=false\&layout=compact)
+
+</div>
 
 ---
 
-## 🌐 Connect
+## Connect
 
 * Portfolio: [bergaman.dev](https://www.bergaman.dev/)
 * Booklogg: [booklogg.com](https://booklogg.com/)
 * Contro: [contro.space](https://www.contro.space/)
 * GitHub: [bergaman9](https://github.com/bergaman9)
 
-> Building software, automation tools, and engineering-focused projects with a dragon spirit.
+---
+
+<div align="center">
+
+### Building software, automation tools, and engineering-focused products with a dragon spirit 🐉
+
+</div>
