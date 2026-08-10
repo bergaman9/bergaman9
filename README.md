@@ -163,16 +163,6 @@ Some projects are private because they are still under active development, used 
 * PC hardware and technical troubleshooting
 * Electrical and electronics engineering
 
-## GitHub Stats
-
-<div align="center">
-
-![Ömer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bergaman9&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bergaman9&theme=synthwave&hide_border=false&layout=compact)
-
-</div>
-
 ## Connect
 
 * Portfolio: [bergaman.dev](https://www.bergaman.dev/)
